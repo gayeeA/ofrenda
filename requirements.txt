@@ -1,0 +1,3 @@
+# Core has ZERO Python dependencies (stdlib only).
+# Optional, for audio transcription (open-weight Whisper, runs locally):
+faster-whisper>=1.0.0
